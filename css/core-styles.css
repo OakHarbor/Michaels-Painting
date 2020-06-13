@@ -622,7 +622,7 @@ button:hover {
 		margin: 0 !important;
 		position: absolute;
 		left: 2em;
-        height: 80px;
+        height: 110px;
         width: auto;
 	}
 
@@ -654,7 +654,8 @@ button:hover {
 		z-index: 100;
 		left: 0;
 		background: transparent;
-		margin-top: 25px;
+        margin-top: 25px;
+        overflow: visible;
 	}
 
 	.navbar-menu:before {
@@ -693,7 +694,7 @@ button:hover {
 		-webkit-box-pack: end;
 		    -ms-flex-pack: end;
 		        justify-content: flex-end;
-		right: 0;
+        right: 0;
 	}
 
 	.side-nav ul li {
