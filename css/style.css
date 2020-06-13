@@ -5,7 +5,7 @@
 #hero {
     height: 650px;
     width: 100%;
-    background:url("../images/image-7.jpg");
+    background:url("../images/landing-mobile.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
@@ -298,7 +298,7 @@
 <--- -------------------------- -*/
 
 .content {
-    background:url("../images/house.jpg");
+    background:url("/images/truck.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 50px;
@@ -688,7 +688,7 @@
 <--- -------------------------- -*/
 
 #reviews {
-    background:url("/images/home2.jpg");
+    background:url("/images/home2-mobile.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
