@@ -1,1 +1,5 @@
 # Redirect default Netlify subdomain to primary domain
+https://michalespainting.netlify.app/ https://www.michaelspaintingwi.com/ 301!
+http://www.michaelspaintingwi.com/ https://www.michaelspaintingwi.com/ 301!
+http://michaelspaintingwi.com/ https://www.michaelspaintingwi.com/ 301!
+https://michaelspaintingwi.com/ https://www.michaelspaintingwi.com/ 301!
