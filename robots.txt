@@ -1,1 +1,2 @@
 Sitemap: https://www.michaelspaintingwi.com/sitemap.xml
+Disallow: /html/services.html
