@@ -263,6 +263,7 @@ html.clicked {
         height: 600px;
         background-attachment: fixed;
         position: relative;
+        background-attachment: url("/images/image-6.jpg");
     }
 
     #home-h {
