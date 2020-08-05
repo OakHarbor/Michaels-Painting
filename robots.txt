@@ -1,2 +1,3 @@
 Sitemap: https://www.michaelspaintingwi.com/sitemap.xml
+User-agent: *
 Disallow: /html/services.html
