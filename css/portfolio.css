@@ -161,7 +161,9 @@ html {
 .moadl-eighteen,
 .modal-nineteen,
 .modal-twenty,
-.modal-twenty-one {
+.modal-twenty-one,
+.modal-twenty-two,
+.modal-twenty-three {
     visibility: hidden;
     -webkit-transition: all .5s ease;
     -o-transition: all .5s ease;
@@ -190,7 +192,9 @@ html {
 .modal-eighteen.clicked,
 .modal-nineteen.clicked,
 .modal-twenty.clicked,
-.modal-twenty-one.clicked {
+.modal-twenty-one.clicked,
+.modal-twenty-two.clicked,
+.modal-twenty-three.clicked {
     visibility: visible;
     margin: auto;
     z-index: 2000;

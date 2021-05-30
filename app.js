@@ -67,6 +67,8 @@ var $modalEighteen = $(".modal-eighteen");
 var $modalNineteen = $(".modal-nineteen");
 var $modalTwenty = $(".modal-twenty");
 var $modalTwentyOne = $(".modal-twenty-one");
+var $modalTwentyTwo = $(".modal-twenty-two");
+var $modalTwentyThree = $(".modal-twenty-three");
 
 /* Images collected in variables */
 
@@ -94,6 +96,8 @@ var $eighteen = $("#eighteen");
 var $nineteen = $("#nineteen");
 var $twenty = $("#twenty");
 var $twentyOne = $("#twenty-one");
+var $twentyTwo = $("#twenty-two");
+var $twentyThree = $("#twenty-three");
 
 /* Add Clicked Class */
 
